@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study and work\\Docs\\uni\\Kỳ 5\\advancedprogramming\\exercise\\exercise.csproj",
-      "projectName": "exercise",
-      "projectPath": "D:\\Study and work\\Docs\\uni\\Kỳ 5\\advancedprogramming\\exercise\\exercise.csproj",
+      "projectUniqueName": "D:\\Study and work\\Docs\\uni\\Kỳ 5\\advancedprogramming\\MatrixProgram\\MatrixProgram.csproj",
+      "projectName": "MatrixProgram",
+      "projectPath": "D:\\Study and work\\Docs\\uni\\Kỳ 5\\advancedprogramming\\MatrixProgram\\MatrixProgram.csproj",
       "packagesPath": "C:\\Users\\damth\\.nuget\\packages\\",
-      "outputPath": "D:\\Study and work\\Docs\\uni\\Kỳ 5\\advancedprogramming\\exercise\\obj\\",
+      "outputPath": "D:\\Study and work\\Docs\\uni\\Kỳ 5\\advancedprogramming\\MatrixProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\damth\\AppData\\Roaming\\NuGet\\NuGet.Config"

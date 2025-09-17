@@ -12,3 +12,4 @@ D:\Study and work\Docs\uni\Kỳ 5\advancedprogramming\exercise\obj\Debug\net8.0\
 D:\Study and work\Docs\uni\Kỳ 5\advancedprogramming\exercise\obj\Debug\net8.0\exercise.pdb
 D:\Study and work\Docs\uni\Kỳ 5\advancedprogramming\exercise\obj\Debug\net8.0\exercise.genruntimeconfig.cache
 D:\Study and work\Docs\uni\Kỳ 5\advancedprogramming\exercise\obj\Debug\net8.0\ref\exercise.dll
+D:\Study and work\Docs\uni\Kỳ 5\advancedprogramming\exercise\obj\Debug\net8.0\exercise.sourcelink.json
