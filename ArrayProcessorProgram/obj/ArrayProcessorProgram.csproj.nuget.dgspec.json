@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study and work\\Docs\\uni\\Kỳ 5\\advancedprogramming\\ArrayProcessorProgram\\ArrayProcessorProgram.csproj": {}
+    "/home/long/RiderProjects/advancedprogramming_coursework/ArrayProcessorProgram/ArrayProcessorProgram.csproj": {}
   },
   "projects": {
-    "D:\\Study and work\\Docs\\uni\\Kỳ 5\\advancedprogramming\\ArrayProcessorProgram\\ArrayProcessorProgram.csproj": {
+    "/home/long/RiderProjects/advancedprogramming_coursework/ArrayProcessorProgram/ArrayProcessorProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study and work\\Docs\\uni\\Kỳ 5\\advancedprogramming\\ArrayProcessorProgram\\ArrayProcessorProgram.csproj",
+        "projectUniqueName": "/home/long/RiderProjects/advancedprogramming_coursework/ArrayProcessorProgram/ArrayProcessorProgram.csproj",
         "projectName": "ArrayProcessorProgram",
-        "projectPath": "D:\\Study and work\\Docs\\uni\\Kỳ 5\\advancedprogramming\\ArrayProcessorProgram\\ArrayProcessorProgram.csproj",
-        "packagesPath": "C:\\Users\\damth\\.nuget\\packages\\",
-        "outputPath": "D:\\Study and work\\Docs\\uni\\Kỳ 5\\advancedprogramming\\ArrayProcessorProgram\\obj\\",
+        "projectPath": "/home/long/RiderProjects/advancedprogramming_coursework/ArrayProcessorProgram/ArrayProcessorProgram.csproj",
+        "packagesPath": "/home/long/.nuget/packages/",
+        "outputPath": "/home/long/RiderProjects/advancedprogramming_coursework/ArrayProcessorProgram/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\damth\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/long/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -59,7 +59,7 @@ public class ArrayProcessor
     {
         if (left < right)
         {
-            int pivot = this.data[left];
+            int pivot = Partition(left, right); 
             QuickSortRecursive(left, pivot - 1);
             QuickSortRecursive(pivot + 1, right);
         }
@@ -137,36 +137,29 @@ class Program
         arrayProcessor.Display();
         //choosing between Linear search or Binary Search
         string choice = Console.ReadLine();
-        switch (choice)
-        {
-            case "1":
-                Console.WriteLine("Nhap key: ");
-                int key = int.Parse(Console.ReadLine());
-                int index = arrayProcessor.LinearSearch(key);
-                if (index == -1)
-                {
-                    Console.WriteLine("Khong tim thay");
-                }
-                else
-                {
-                    Console.WriteLine($"Key {key} co index {index}");
-                }
-
-                break;
-            case "2":
-                Console.WriteLine("Nhap key: ");
-                key = int.Parse(Console.ReadLine());
-                index = arrayProcessor.BinarySearch(key);
-                if (index == -1)
-                {
-                    Console.WriteLine("Khong tim thay");
-                }
-                else
-                {
-                    Console.WriteLine($"Key {key} co index {index}");
-                }
-                break;
-        }
+            Console.WriteLine("Nhap key: ");
+            int key = int.Parse(Console.ReadLine());
+            int index = arrayProcessor.LinearSearch(key);
+            if (index == -1)
+            {
+                Console.WriteLine("Khong tim thay");
+            }
+            else
+            {
+                Console.WriteLine($"Key {key} co index {index}");
+            }
+            Console.WriteLine("Nhap key: ");
+            key = int.Parse(Console.ReadLine());
+            index = arrayProcessor.BinarySearch(key);
+            if (index == -1)
+            {
+                Console.WriteLine("Khong tim thay");
+            }
+            else
+            {
+                Console.WriteLine($"Key {key} co index {index}");
+            }
+        
         
     }
 }

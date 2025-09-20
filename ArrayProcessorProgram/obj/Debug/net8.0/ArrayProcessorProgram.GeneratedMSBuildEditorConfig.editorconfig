@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ArrayProcessorProgram
-build_property.ProjectDir = D:\Study and work\Docs\uni\Kỳ 5\advancedprogramming\ArrayProcessorProgram\
+build_property.ProjectDir = /home/long/RiderProjects/advancedprogramming_coursework/ArrayProcessorProgram/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
